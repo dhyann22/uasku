@@ -1,2 +1,2 @@
 # uasku
-#clould computing
+#cloud computing
